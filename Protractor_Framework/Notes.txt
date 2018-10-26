@@ -1,0 +1,14 @@
+C:\Users\sriram.kancharla>node --version
+v8.9.4
+
+C:\Users\sriram.kancharla>npm --version
+5.6.0
+
+//Command to update webdriver manager if in case the browser version has changed
+webdriver-manager update
+
+//Command to start the selenium standalone service. This is basically for the protractor to run scripts against the browser
+webdriver-manager start
+
+
+'npm install' to install the dependencies mentioned in package.json

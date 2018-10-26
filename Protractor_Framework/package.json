@@ -1,0 +1,23 @@
+{
+  "name": "SmartPay-B-Automation",
+  "version": "1.0.0",
+  "description": "e2e Smart Pay B Automation framework",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "fs-extra": "^0.30.0",
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "chai-as-promised": "6.0.0",
+    "cucumber": "2.3.1",
+    "cucumber-html-reporter": "^4.0.4",
+    "grunt-protractor-runner": "5.0.0",
+    "protractor": "^5.4.1",
+    "protractor-cucumber-framework": "3.1.2",
+    "winston": "2.4.4",
+    "nodemailer": "4.0.1"
+  },
+  "author": "Sriram Kancharla",
+  "license": "MIT"
+}

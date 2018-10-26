@@ -1,0 +1,20 @@
+{
+  "test": {
+    "appUrl": "https://op2.erhapay.net/bop_auth/login",
+    "users":{
+      "admin":{
+        "username":"admin@zatara2.com",
+        "password":"Password2345",
+        "user":"zatara"
+      },
+      "otheruser":{
+        "username":"admin@zatara2.com",
+        "password":"Password234523434",
+        "user":"otheruser"
+      }
+    }
+  },
+  "dev": {
+    "appUrl": "https://wego.here.com"
+  }
+}
